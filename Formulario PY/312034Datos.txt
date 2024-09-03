@@ -1,0 +1,40 @@
+Nombres: Emmanuel
+Apellidos: Salinas Caballero
+Edad: 21 anos
+Estatura: 212
+Telefono: 91665123
+Genero: Hombre
+
+
+Nombres: 121
+Apellidos: 122
+Edad: 123 anos
+Estatura: 1212.0
+Telefono: 12312123
+Genero: Hombre
+
+
+Nombres: Emmanuel
+Apellidos: Salinas
+Edad: 19 anios
+Estatura: 164.0
+Telefono: 9611191492
+Genero: Hombre
+
+
+Nombres: Emmanuel
+Apellidos: Salinas
+Edad: 19 anios
+Estatura: 164.0
+Telefono: Noveciento once
+Genero: Hombre
+
+
+Nombres: Emmanuel
+Apellidos: Salinas
+Edad: 19 anios
+Estatura: 165.0
+Telefono: 9611191492
+Genero: Hombre
+
+
